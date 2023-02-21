@@ -1,10 +1,9 @@
 import "./App.css";
-import Color from "./components/condinal rendering/Color";
+import Todo from "./components/condinal rendering/Todo";
 function App() {
   return (
     <div className="App">
-      <Color name="green" />
-      <Color />
+      <Todo status/>
     </div>
   );
 }

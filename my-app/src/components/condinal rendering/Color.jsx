@@ -13,7 +13,9 @@ const Color = ({ name }) => {
 
   // using &&
 
-  return <div>{name ?? <h1>Color - {name}</h1>}</div>;
+  //   return <div>{name ?? <h1>Color - {name}</h1>}</div>;
+
+  return <div>Color</div>;
 };
 
 export default Color;
