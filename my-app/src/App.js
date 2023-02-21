@@ -1,11 +1,11 @@
 import "./App.css";
-import Button from "./components/Button";
+import Child from "./components/props/Child";
+import Parent from "./components/props/Parent";
 function App() {
   return (
     <div className="App">
-      <Button>Primary</Button>
-      <Button>Secondary</Button>
-      <Button>Danger</Button>
+      <Parent />
+
     </div>
   );
 }
