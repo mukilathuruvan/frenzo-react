@@ -1,14 +1,11 @@
-import logo from "./logo.svg";
 import "./App.css";
-import Header, { Footer, MainContent } from "./components/Header";
-import Courses, { PersonInfo } from "./components/Courses";
-import Child from "./components/Child";
+import Child, { Name } from "./components/Child";
 function App() {
   return (
     <div className="App">
-      <Child>
-        <h2>nested Component</h2>
-      </Child>
+      <Name name="manfree" />
+      <Name name="frenzo" />
+      <Name name="oracle" />
     </div>
   );
 }

@@ -6,3 +6,8 @@ const Child = (props) => {
 };
 
 export default Child;
+
+export const Name = (props) => {
+  console.log(props);
+  return <h1>{props.name}</h1>;
+};

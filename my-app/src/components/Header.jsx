@@ -1,5 +1,3 @@
-import react from "react";
-
 const Header = () => {
   let componyName = "manfree";
   return <h1>First Component- {componyName}</h1>;
