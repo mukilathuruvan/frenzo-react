@@ -1,9 +1,12 @@
 import React from "react";
 import "../style/button.css";
+
+const buttonStyle = {
+  color: "red",
+};
+
 const Button = ({ children }) => {
-  return <button className={`${children.toLowerCase()}`}>{children}</button>;
+  return <button style={buttonStyle}>{children}</button>;
 };
 
 export default Button;
-
-
