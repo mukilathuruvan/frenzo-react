@@ -1,9 +1,10 @@
 import "./App.css";
-import ComponentC from "./components/props/ComponentC";
+import Color from "./components/condinal rendering/Color";
 function App() {
   return (
     <div className="App">
-      <ComponentC />
+      <Color name="green" />
+      <Color />
     </div>
   );
 }
