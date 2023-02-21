@@ -9,5 +9,10 @@ export default Child;
 
 export const Name = (props) => {
   console.log(props);
-  return <h1>{props.name}</h1>;
+  return (
+    <>
+      <h1>{props.name}</h1>
+      <h3>{props.age}</h3>
+    </>
+  );
 };
