@@ -1,10 +1,11 @@
 import "./App.css";
-import Child, { Name } from "./components/Child";
-import { Destruct } from "./components/Destruct";
+import Button from "./components/Button";
 function App() {
   return (
     <div className="App">
-      <Destruct name="manfree" year={2010} />
+      <Button>Primary</Button>
+      <Button>Secondary</Button>
+      <Button>Danger</Button>
     </div>
   );
 }
