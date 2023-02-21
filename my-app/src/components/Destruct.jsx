@@ -1,7 +1,6 @@
 import React from "react";
 
-export const Destruct = (props) => {
-  const { name, year } = props;
+export const Destruct = ({ name, year }) => {
   return (
     <div>
       Destruct - {name} - {year}
