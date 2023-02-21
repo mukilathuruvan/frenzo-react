@@ -1,13 +1,14 @@
 import react from "react";
 
 const Header = () => {
-  return <h1>First Component</h1>;
+  let componyName = "manfree";
+  return <h1>First Component- {componyName}</h1>;
 };
 
 export default Header;
 
 export const Footer = () => {
-  return <h4>Footer Component</h4>;
+  return <h4>Footer Component - {10 + 30}</h4>;
 };
 
 export const MainContent = () => {
