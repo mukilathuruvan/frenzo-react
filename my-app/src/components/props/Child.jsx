@@ -1,10 +1,13 @@
 import React from "react";
 
-const Child = ({ handleClick }) => {
+const Child = ({ greet }) => {
   return (
     <div>
       <h1>Child</h1>
-      <button onClick={handleClick}>Child Button</button>
+      {greet.map((item) => (
+        <li key={item}>{item}</li>
+      ))}
+      <button>Child Button</button>
     </div>
   );
 };

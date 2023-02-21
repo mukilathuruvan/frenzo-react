@@ -2,14 +2,12 @@ import React from "react";
 import Child from "./Child";
 
 const Parent = () => {
-  const handler = () => {
-    alert("button is clicked");
-  };
+  const courses = ["python", "java", "plc", "aws"];
   return (
     <div>
       <h1>Parent</h1>
-      <button onClick={() => handler()}>Parent Button</button>
-      <Child handleClick={handler} />
+      <button>Parent Button</button>
+      <Child greet={courses} />
     </div>
   );
 };
