@@ -1,9 +1,30 @@
+.button {
+  color: #fff;
+  border: none;
+}
+
 .primary {
-  border: 1px blue solid;
+  background-color: #007bff;
 }
 .secondary {
-  border: 1px solid rgb(164, 36, 164);
+  background-color: #28a745;
 }
 .danger {
-  border: 1px solid red;
+  background-color: #dc3545;
+}
+.rounded {
+  border-radius: 4px;
+}
+.md {
+  padding: 6px 12px;
+}
+
+.sm {
+  padding: 3px 6px;
+}
+.lg {
+  padding: 9px 16px;
+}
+.border-none {
+  border: none;
 }
