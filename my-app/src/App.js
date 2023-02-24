@@ -1,10 +1,10 @@
 import "./App.css";
-import Mutation from "./Hooks/Mutation";
+import Person from "./Hooks/Person";
 
 function App() {
   return (
     <div className="App">
-      <Mutation />
+      <Person />
     </div>
   );
 }
