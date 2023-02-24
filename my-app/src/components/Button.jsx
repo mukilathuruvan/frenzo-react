@@ -1,11 +1,12 @@
 import React from "react";
 import "../style/button.css";
-const Button = ({ children, rounded, variant, size }) => {
+const Button = ({ children, rounded, variant, size, backgroundColor }) => {
   return (
     <button
       className={` button ${variant ? variant : ""} ${rounded ? "rounded" : ""} 
-      ${size ? size : ""}
-      `}>
+      ${size ? size : null}
+      `}
+      style={{ backgroundColor }}>
       {children}
     </button>
   );

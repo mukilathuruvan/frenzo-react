@@ -1,16 +1,10 @@
 import "./App.css";
-import Button from "./components/Button";
-
-import { data } from "./components/data";
+import Counter from "./Hooks/Counter";
 
 function App() {
   return (
     <div className="App">
-      {data.map((text) => (
-        <Button key={text.id} rounded variant={text.varaint} size={text.size}>
-          {text.text}
-        </Button>
-      ))}
+      <Counter />
     </div>
   );
 }
