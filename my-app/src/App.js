@@ -1,10 +1,10 @@
 import "./App.css";
-import Counter from "./Hooks/Counter";
+import Mutation from "./Hooks/Mutation";
 
 function App() {
   return (
     <div className="App">
-      <Counter />
+      <Mutation />
     </div>
   );
 }
