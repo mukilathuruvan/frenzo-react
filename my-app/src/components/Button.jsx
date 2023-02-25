@@ -11,7 +11,7 @@ const Button = ({
   return (
     <button
       className={` button ${variant ? variant : ""} ${rounded ? "rounded" : ""} 
-      ${size ? size : null}
+      ${size ? size : ""}
       `}
       style={{ backgroundColor }}
       onClick={handler}>

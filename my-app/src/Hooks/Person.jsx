@@ -23,7 +23,7 @@ const Person = () => {
       <Button rounded variant={"primary"} size="lg" handler={handlePresent}>
         Present
       </Button>
-      <Button rounded variant={"secondary"} size="lg" handler={handleAbsent}>
+      <Button rounded variant={"danger"} size="lg" handler={handleAbsent}>
         Absent
       </Button>
     </div>
