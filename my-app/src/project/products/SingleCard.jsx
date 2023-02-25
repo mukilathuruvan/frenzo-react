@@ -2,7 +2,7 @@ import React from "react";
 
 const SingleCard = ({ product }) => {
   return (
-    <li>
+    <li className="grid-item">
       <img src={product.img} alt="" />
       <div className="card-content">
         <h3>{product.productName}</h3>
