@@ -7,6 +7,7 @@ const Button = ({
   size,
   backgroundColor,
   handler,
+  disabled,
 }) => {
   return (
     <button
@@ -14,7 +15,8 @@ const Button = ({
       ${size ? size : ""}
       `}
       style={{ backgroundColor }}
-      onClick={handler}>
+      onClick={handler}
+      disabled={disabled}>
       {children}
     </button>
   );

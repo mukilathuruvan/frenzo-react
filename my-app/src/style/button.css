@@ -3,9 +3,12 @@
   border: none;
   margin: 0 5px;
 }
-
+.button:disabled {
+  background-color: #fff !important;
+  color: black !important;
+}
 .primary {
-  background-color: #007bff !important ;
+  background-color: #007bff;
 }
 .secondary {
   background-color: #28a745;

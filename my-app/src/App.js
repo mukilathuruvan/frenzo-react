@@ -1,10 +1,10 @@
 import "./App.css";
-import Layout from "./project/Layout";
+import Panel from "./Hooks/Panel";
 
 function App() {
   return (
     <div className="App">
-      <Layout />
+      <Panel />
     </div>
   );
 }
