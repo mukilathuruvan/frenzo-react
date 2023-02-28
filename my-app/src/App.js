@@ -1,10 +1,10 @@
 import "./App.css";
-import Panel from "./Hooks/Panel";
+import HomePage from "./project/e-com/HomePage";
 
 function App() {
   return (
     <div className="App">
-      <Panel />
+      <HomePage />
     </div>
   );
 }
