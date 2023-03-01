@@ -1,10 +1,10 @@
 import "./App.css";
-import HomePage from "./project/e-com/HomePage";
+import MyInput from "./components/MyInput";
 
 function App() {
   return (
     <div className="App">
-      <HomePage />
+      <MyInput />
     </div>
   );
 }
