@@ -2,30 +2,35 @@ import React, { useState } from "react";
 
 const MyInput = () => {
   const [person, setPerson] = useState({ name: "", age: 0, course: "" });
+  const handleChange = (e) =>
+    setPerson({ ...person, [e.target.name]: e.target.value });
   return (
     <div>
       <label htmlFor="">
         name{" "}
         <input
           type="text"
+          name="name"
           value={person.name}
-          onChange={(e) => setPerson({ ...person, name: e.target.value })}
+          onChange={(e) => handleChange(e)}
         />
       </label>
       <label htmlFor="">
         age{" "}
         <input
           type="number"
+          name="age"
           value={person.age}
-          onChange={(e) => setPerson({ ...person, age: e.target.value })}
+          onChange={(e) => handleChange(e)}
         />
       </label>
       <label htmlFor="">
         course{" "}
         <input
           type="text"
+          name="course"
           value={person.course}
-          onChange={(e) => setPerson({ ...person, course: e.target.value })}
+          onChange={(e) => handleChange(e)}
         />
       </label>
       <h1>{` name:${person.name}  age:${person.age}  course:${person.course}`}</h1>
