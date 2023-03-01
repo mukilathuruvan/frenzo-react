@@ -1,19 +1,34 @@
 import React, { useState } from "react";
-import Button from "./Button";
+
 const MyInput = () => {
-  const [name, setName] = useState("manfree");
-  const handleChange = (e) => setName(e.target.value);
+  const [person, setPerson] = useState({ name: "", age: 0, course: "" });
   return (
     <div>
-      <input type="text" value={name} onChange={handleChange} />
-      <Button
-        variant={"secondary"}
-        size={"lg"}
-        rounded
-        handler={() => console.log(name)}>
-        Click
-      </Button>
-      <h3>{name}</h3>
+      <label htmlFor="">
+        name{" "}
+        <input
+          type="text"
+          value={person.name}
+          onChange={(e) => setPerson({ ...person, name: e.target.value })}
+        />
+      </label>
+      <label htmlFor="">
+        age{" "}
+        <input
+          type="number"
+          value={person.age}
+          onChange={(e) => setPerson({ ...person, age: e.target.value })}
+        />
+      </label>
+      <label htmlFor="">
+        course{" "}
+        <input
+          type="text"
+          value={person.course}
+          onChange={(e) => setPerson({ ...person, course: e.target.value })}
+        />
+      </label>
+      <h1>{` name:${person.name}  age:${person.age}  course:${person.course}`}</h1>
     </div>
   );
 };
