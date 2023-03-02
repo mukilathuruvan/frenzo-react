@@ -1,10 +1,10 @@
 import "./App.css";
-import MyInput from "./components/MyInput";
+import Picture from "./Hooks/Picture";
 
 function App() {
   return (
     <div className="App">
-      <MyInput />
+      <Picture />
     </div>
   );
 }
