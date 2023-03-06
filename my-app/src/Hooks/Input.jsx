@@ -1,15 +1,16 @@
 import React, { useEffect, useRef } from "react";
 
 const Input = () => {
-  const inputRef = useRef();
-  useEffect(() => {
-    inputRef.current.focus();
-  }, []);
+  const inputRef = useRef(10);
   return (
     <div>
-      <input type="text" placeholder="name" ref={inputRef} />
-      <input type="text" placeholder="age" />
-      <input type="text" placeholder="course" />
+      <h2>{inputRef.current}</h2>
+      <button
+        onClick={() => {
+          inputRef.current++;
+        }}>
+        Increment
+      </button>
     </div>
   );
 };
