@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react";
+import uuid from "react-uuid";
+
 import "./todo.css";
 const initial = [
   { id: 201, title: "go for trip", done: false },
@@ -9,11 +11,17 @@ const initial = [
   { id: 206, title: "read a book", done: true },
 ];
 
+const generate = (item) => ({ ...item, id: uuid() });
+
+const listInitial = initial.map((todo) => generate(todo));
+
 const singleInitial = { id: 211, title: "", done: false };
 const Sample = () => {
-  const [list, setList] = useState(initial);
+  const [list, setList] = useState(listInitial);
   const [single, setSingle] = useState(singleInitial);
   const [edit, setEdit] = useState(null);
+
+  console.log(list);
 
   useEffect(() => {
     if (edit) {
