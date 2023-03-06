@@ -1,11 +1,11 @@
 import { useState } from "react";
 import "./App.css";
-import Input from "./Hooks/Input";
+import Sample from "./project/todo/Sample";
 function App() {
   const [show, setShow] = useState(true);
   return (
     <div className="App">
-      <Input />
+      <Sample />
     </div>
   );
 }
