@@ -4,10 +4,7 @@ const SideEffects = () => {
   const [count, setCount] = useState(0);
 
   useEffect(() => {
-    console.log("component is mounting");
-    return () => {
-      console.log("unmounting phase");
-    };
+    console.log("count is ", count);
   }, [count]);
 
   return (
