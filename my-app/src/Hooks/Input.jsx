@@ -7,6 +7,7 @@ const Input = () => {
       <h2>{inputRef.current}</h2>
       <button
         onClick={() => {
+          console.log(inputRef.current);
           inputRef.current++;
         }}>
         Increment
