@@ -1,13 +1,13 @@
 import { useState } from "react";
 import "./App.css";
-import Universal from "./Hooks/Universal";
-import Users from "./Hooks/Users";
-import Sample from "./project/todo/Sample";
+import CompoA from "./render/CompoA";
 function App() {
-  const [show, setShow] = useState(true);
+  const [name, setName] = useState("manfree");
   return (
     <div className="App">
-      <Sample />
+      <CompoA name={name} />
+      <h2>{name} from app</h2>
+      <button onClick={() => setName("frenzo")}>Change name</button>
     </div>
   );
 }
