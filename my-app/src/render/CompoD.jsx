@@ -1,14 +1,14 @@
-import React from "react";
+import React, { memo } from "react";
 import CompoE from "./CompoE";
 
-const CompoD = ({ name }) => {
+const CompoD = () => {
   console.log("Component - D");
   return (
     <div>
       CompoD
-      <CompoE name={name} />
+      <CompoE />
     </div>
   );
 };
 
-export default CompoD;
+export default memo(CompoD);

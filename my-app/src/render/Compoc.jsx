@@ -1,14 +1,14 @@
-import React from "react";
+import React, { memo } from "react";
 import CompoD from "./CompoD";
 
-const Compoc = ({ name }) => {
+const Compoc = () => {
   console.log("Component - C");
   return (
     <div>
       Compoc
-      <CompoD name={name} />
+      <CompoD />
     </div>
   );
 };
 
-export default Compoc;
+export default memo(Compoc);

@@ -1,16 +1,16 @@
-import React from "react";
+import React, { memo } from "react";
 import CompoB from "./CompoB";
 import Compoc from "./Compoc";
 
-const CompoA = ({ name }) => {
+const CompoA = () => {
   console.log("Component - A");
   return (
     <div>
       CompoA
       <CompoB />
-      <Compoc name={name} />
+      <Compoc />
     </div>
   );
 };
 
-export default CompoA;
+export default memo(CompoA);

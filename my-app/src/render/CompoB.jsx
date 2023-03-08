@@ -1,14 +1,8 @@
 import React, { memo } from "react";
 
-export const CompoB = memo(() => {
+const CompoB = () => {
   console.log("Component - B");
   return <div>CompoB</div>;
-});
-
-export default memo(CompoB);
-
-const Header = () => {
-  return <div></div>;
 };
 
-export const MemoizedHeader = memo(Header);
+export default memo(CompoB);
