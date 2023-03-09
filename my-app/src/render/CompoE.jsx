@@ -5,7 +5,11 @@ const CompoE = () => {
   const name = useContext(context);
   console.log("Component - E ");
 
-  return <div>CompoE - {name}</div>;
+  return (
+    <div>
+      <h2>CompoE - {name}</h2>
+    </div>
+  );
 };
 
 export default CompoE;
