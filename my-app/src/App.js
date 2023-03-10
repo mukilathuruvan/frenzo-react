@@ -1,9 +1,9 @@
-import Form from "./Hooks/Form";
+import Reducer from "./Hooks/Reducer";
 
 function App() {
   return (
     <div className="App">
-      <Form />
+      <Reducer />
     </div>
   );
 }
