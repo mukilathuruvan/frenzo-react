@@ -1,16 +1,16 @@
-import React, { useCallback, useState } from "react";
+import React, { useCallback, useMemo, useState } from "react";
 import Child from "./Child";
 
 const Parent = () => {
-  console.log("parent");
   const [count, setCount] = useState(10);
-  const increment = useCallback(() => {
-    setCount(count + 1);
-  }, []);
+  console.log("parent");
+  const person = useMemo(() => ({ name: "ragnar", age: 31 }), []);
   return (
     <div>
-      Parent -{count}
-      <Child handler={increment} />
+      Parent -{person.name}-{count}
+      <br />
+      <button onClick={() => setCount(count + 1)}>Click</button>
+      <Child person={person} />
     </div>
   );
 };

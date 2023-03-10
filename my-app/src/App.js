@@ -1,8 +1,8 @@
-import Parent from "./render/memo/Parent";
+import Layout from "./project/expence/Layout";
 function App() {
   return (
     <div className="App">
-      <Parent />
+      <Layout />
     </div>
   );
 }

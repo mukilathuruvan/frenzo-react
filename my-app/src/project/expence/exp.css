@@ -1,0 +1,9 @@
+.expence {
+  border-left: 6px solid red;
+  margin: 7px 0;
+}
+
+.income {
+  border-left: 6px solid green;
+  margin: 7px 0;
+}

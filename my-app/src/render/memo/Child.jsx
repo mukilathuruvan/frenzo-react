@@ -1,12 +1,12 @@
 import React, { memo } from "react";
 
-const Child = ({ handler }) => {
+const Child = ({ person }) => {
   console.log("child");
   return (
     <div>
       Child
       <br />
-      <button onClick={handler}>Button-Child</button>
+      <h3>from child - {person.name}</h3>
     </div>
   );
 };
