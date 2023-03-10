@@ -1,16 +1,32 @@
-import React, { useState } from "react";
+import React, { useReducer, useState } from "react";
 
 let initial = { fname: "", lname: "", age: 0, course: "", doj: "" };
 
-const Form = () => {
-  const [person, setPerson] = useState(initial);
+const reducer = (state, action) => {
+  switch (action.type) {
+    case "fname": {
+      return { ...state, fname: action.payload };
+    }
+    case "lname": {
+      return { ...state, lname: action.payload };
+    }
+    case "age": {
+      return { ...state, age: action.payload };
+    }
+    case "course": {
+      return { ...state, course: action.payload };
+    }
+    case "doj": {
+      return { ...state, doj: action.payload };
+    }
+    default: {
+      return state;
+    }
+  }
+};
 
-  const handleChange = (e) => {
-    let key = e.target.name;
-    let value = e.target.value;
-    console.log(key, value);
-    setPerson({ ...person, [key]: value });
-  };
+const Form = () => {
+  const [person, dispatch] = useReducer(reducer, initial);
 
   return (
     <form
@@ -21,31 +37,31 @@ const Form = () => {
       <input
         type="text"
         name="fname"
-        onChange={handleChange}
+        onChange={(e) => dispatch({ type: "fname", payload: e.target.value })}
         value={person.fname}
       />
       <input
         name="lname"
         type="text"
-        onChange={handleChange}
+        onChange={(e) => dispatch({ type: "lname", payload: e.target.value })}
         value={person.lname}
       />
       <input
         name="age"
         type="number"
-        onChange={handleChange}
+        onChange={(e) => dispatch({ type: "age", payload: e.target.value })}
         value={person.age}
       />
       <input
         name="course"
         type="text"
-        onChange={handleChange}
+        onChange={(e) => dispatch({ type: "course", payload: e.target.value })}
         value={person.course}
       />
       <input
         name="doj"
         type="date"
-        onChange={handleChange}
+        onChange={(e) => dispatch({ type: "doj", payload: e.target.value })}
         value={person.doj}
       />
       <input type="submit" />
