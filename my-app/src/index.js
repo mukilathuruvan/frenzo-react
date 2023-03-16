@@ -1,15 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import ExpenceContext from "./context/ExpenceContext";
+import { BrowserRouter } from "react-router-dom";
+import AppRoutes from "./Routes/AppRoutes";
+import Navbar from "./Routes/Navbar";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <ExpenceContext>
-    <App />
-  </ExpenceContext>
+  <BrowserRouter>
+    <Navbar />
+    <AppRoutes />
+  </BrowserRouter>
 );
 
 // If you want to start measuring performance in your app, pass a function
