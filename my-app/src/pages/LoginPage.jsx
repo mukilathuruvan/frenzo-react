@@ -1,12 +1,16 @@
 import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 import { useUserContext } from "../context/userContext";
 
 const LoginPage = () => {
   const [user, setUser] = useState({ userName: "", password: "" });
   const { login } = useUserContext();
+  const navigate = useNavigate();
+
   const handleSubmit = (e) => {
     e.preventDefault();
     login(user);
+    navigate("/profile");
   };
   return (
     <form onSubmit={handleSubmit}>

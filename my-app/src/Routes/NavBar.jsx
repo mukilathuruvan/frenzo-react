@@ -8,6 +8,7 @@ const Navbar = () => {
     <nav>
       {routes.map((route) => (
         <NavLink
+          key={route}
           to={route === "home" ? "/" : route}
           style={{ marginLeft: "30px" }}>
           {route}

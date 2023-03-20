@@ -1,4 +1,5 @@
 import React from "react";
+import { Navigate } from "react-router-dom";
 import { useUserContext } from "../context/userContext";
 
 const ProfilePage = () => {
@@ -12,7 +13,7 @@ const ProfilePage = () => {
           <button onClick={() => logout()}>Logout</button>
         </>
       ) : (
-        <h1>You are Not Logged in</h1>
+        <Navigate to={"/login"} />
       )}
     </div>
   );
