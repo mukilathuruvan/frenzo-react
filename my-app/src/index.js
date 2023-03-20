@@ -5,12 +5,15 @@ import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
 import NavBar from "./Routes/NavBar";
 import AppRoutes from "./Routes/AppRoutes";
+import UserContext from "./context/userContext";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter>
-    <NavBar />
-    <AppRoutes />
-  </BrowserRouter>
+  <UserContext>
+    <BrowserRouter>
+      <NavBar />
+      <AppRoutes />
+    </BrowserRouter>
+  </UserContext>
 );
 
 // If you want to start measuring performance in your app, pass a function
