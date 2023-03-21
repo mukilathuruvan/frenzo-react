@@ -1,32 +1,20 @@
-import React from "react";
+import React, { Suspense } from "react";
 import { Route, Routes } from "react-router-dom";
-import {
-  HomePage,
-  UserPage,
-  SingleUserPage,
-  ParentPage,
-  ChildrenPage,
-  HistoryPage,
-  ProfilePage,
-  UserParams,
-} from "../pages";
-import LoginPage from "../pages/LoginPage";
+const HomePage = React.lazy(() => import("../pages/HomePage"));
+const UserPage = React.lazy(() => import("../pages/UserPage"));
 
 const AppRoutes = () => {
   return (
     <Routes>
       <Route path="/" element={<HomePage />} />
-      <Route path="/users" element={<UserPage />} />
-      <Route path="/users/:id" element={<SingleUserPage />} />
-      <Route path="/order" element={<h1>Order Page</h1>} />
-      <Route path="/users-params" element={<UserParams />} />
-      <Route path="/history" element={<HistoryPage />} />
-      <Route path="/profile" element={<ProfilePage />} />
-      <Route path="/login" element={<LoginPage />} />
-
-      <Route path="/parent" element={<ParentPage />}>
-        <Route path="id" element={<ChildrenPage />} />
-      </Route>
+      <Route
+        path="/users"
+        element={
+          <Suspense fallback={<h1>Loading...!</h1>}>
+            <UserPage />
+          </Suspense>
+        }
+      />
       <Route path="/*" element={<h1>404 Not Found Error</h1>} />
     </Routes>
   );

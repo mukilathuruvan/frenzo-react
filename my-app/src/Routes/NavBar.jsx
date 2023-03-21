@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 const routes = [
   "home",
-  "user",
+  "users",
   "order",
   "history",
   "profile",

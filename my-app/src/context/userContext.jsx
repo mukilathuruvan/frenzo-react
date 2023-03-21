@@ -1,13 +1,9 @@
-import React, { createContext, useContext, useEffect, useState } from "react";
+import React, { createContext, useContext, useState } from "react";
 
 const user = createContext(null);
 
 const UserContext = ({ children }) => {
   const [currentUser, setCurrentUser] = useState(null);
-
-  useEffect(() => {
-    console.log(currentUser);
-  }, [currentUser]);
 
   const login = (user) => {
     setCurrentUser(user);

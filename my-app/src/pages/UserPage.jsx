@@ -10,9 +10,13 @@ const UserPage = () => {
   }, []);
   return (
     <div>
-      <h1>UserPage</h1>
+      {/* <h1>hello this is welcome</h1>
+      <h1>hello this is welcome</h1>
+      <h1>hello this is welcome</h1>
+      <h1>hello this is welcome</h1>
+      <h1>hello this is welcome</h1> */}
       <ul>
-        {users?.map((user) => (
+        {users.map((user) => (
           <li key={user?.id}>
             <Link to={`/users/${user?.id}`}>{user?.name}</Link>
           </li>
