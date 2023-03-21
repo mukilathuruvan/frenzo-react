@@ -8,6 +8,7 @@ import {
   ChildrenPage,
   HistoryPage,
   ProfilePage,
+  UserParams,
 } from "../pages";
 import LoginPage from "../pages/LoginPage";
 
@@ -18,7 +19,7 @@ const AppRoutes = () => {
       <Route path="/users" element={<UserPage />} />
       <Route path="/users/:id" element={<SingleUserPage />} />
       <Route path="/order" element={<h1>Order Page</h1>} />
-
+      <Route path="/users-params" element={<UserParams />} />
       <Route path="/history" element={<HistoryPage />} />
       <Route path="/profile" element={<ProfilePage />} />
       <Route path="/login" element={<LoginPage />} />

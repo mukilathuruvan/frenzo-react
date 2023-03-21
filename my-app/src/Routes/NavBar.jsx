@@ -1,7 +1,15 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 
-const routes = ["home", "user", "order", "history", "profile", "login"];
+const routes = [
+  "home",
+  "user",
+  "order",
+  "history",
+  "profile",
+  "login",
+  "users-params",
+];
 
 const Navbar = () => {
   return (
