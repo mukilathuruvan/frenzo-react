@@ -1,9 +1,2243 @@
 {
   "products": [
     {
-      "id": 1,
-      "price": 20000,
-      "category": "men"
+      "id": 571351,
+      "all_offer_price": 2398,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "black"
+      ],
+      "design": "Solid",
+      "display_image": "snitch-men-s-black-on-loop-slim-fit-shirt-571351-1674473785-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1173488,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1173490,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1173491,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1173493,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1173495,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 849,
+      "mrp": 2398,
+      "name": "Snitch Men's Black On Loop Slim Fit Shirt",
+      "custom_name": "Men's Black On Loop Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 899,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-black-on-loop-slim-fit-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "64% OFF",
+      "product_discount": "62% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 571810,
+      "all_offer_price": 1598,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "blue"
+      ],
+      "design": "Floral Print",
+      "display_image": "snitch-men-s-blue-exo-leaf-floral-printed-slim-fit-shirt-571810-1674563628-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1174247,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1174251,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1174255,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1174259,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1174261,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 759,
+      "mrp": 1598,
+      "name": "Snitch Men's Blue Exo Leaf Floral Printed Slim Fit Shirt",
+      "custom_name": "Men's Blue Exo Leaf Floral Printed Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 799,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-blue-exo-leaf-floral-printed-slim-fit-shirt4mss1490-01",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "52% OFF",
+      "product_discount": "50% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 575252,
+      "all_offer_price": 2999,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "blue"
+      ],
+      "design": "Geometric Print",
+      "display_image": "bushirt-men-s-irregular-strips-blue-slim-fit-shirt-575252-1674643670-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1178582,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1178584,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1178586,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1178588,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1178589,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 949,
+      "mrp": 2999,
+      "name": "Men's Blue Irregular Strips Slim Fit Shirt",
+      "custom_name": "Men's Blue Irregular Strips Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 999,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "bushirt-mens-irregular-strips-blue-slim-fit-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "average_rating": 4.5,
+      "member_discount": "68% OFF",
+      "product_discount": "66% OFF",
+      "manufacturer_brand": "Bushirt"
+    },
+    {
+      "id": 571809,
+      "all_offer_price": 1598,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "black"
+      ],
+      "design": "Floral Print",
+      "display_image": "snitch-men-s-black-exo-leaf-floral-printed-slim-fit-shirt-571809-1674563973-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1174246,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1174250,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1174254,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1174258,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1174262,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 759,
+      "mrp": 1598,
+      "name": "Snitch Men's Black Exo Leaf Floral Printed Slim Fit Shirt",
+      "custom_name": "Men's Black Exo Leaf Floral Printed Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 799,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-black-exo-leaf-floral-printed-slim-fit-shirt4mss1490-03",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "52% OFF",
+      "product_discount": "50% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 567927,
+      "all_offer_price": 799,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "black"
+      ],
+      "design": "Geometric Print",
+      "display_image": "men-s-black-aztec-geometric-printed-relaxed-fit-shirt-567927-1673337759-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1165775,
+          "name": "S",
+          "stock_status": true
+        },
+        {
+          "id": 1165764,
+          "name": "M",
+          "stock_status": true
+        },
+        {
+          "id": 1165753,
+          "name": "L",
+          "stock_status": true
+        },
+        {
+          "id": 1165785,
+          "name": "XL",
+          "stock_status": true
+        },
+        {
+          "id": 1165795,
+          "name": "2XL",
+          "stock_status": false
+        }
+      ],
+      "stock_status": true,
+      "member_price": 539,
+      "mrp": 799,
+      "name": "Men's Black Aztec Geometric Printed Relaxed Fit Shirt",
+      "custom_name": "Men's Black Aztec Geometric Printed Relaxed Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 559,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "mens-black-aztec-geometric-printed-relaxed-fit-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "RELAXED FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "32% OFF",
+      "product_discount": "30% OFF",
+      "manufacturer_brand": "TISTABENE"
+    },
+    {
+      "id": 571339,
+      "all_offer_price": 2798,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "blue"
+      ],
+      "design": "Solid",
+      "display_image": "snitch-men-s-blue-yoke-style-slim-fit-denim-shirt-571339-1674473864-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1173423,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1173426,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1173431,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1173440,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1173446,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 1039,
+      "mrp": 2798,
+      "name": "Snitch Men's Blue Yoke Style Slim Fit Denim Shirt",
+      "custom_name": "Men's Blue Yoke Style Slim Fit Denim Shirt",
+      "offer_type": "price_cut",
+      "price": 1099,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-blue-yoke-style-slim-fit-denim-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "62% OFF",
+      "product_discount": "60% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 571343,
+      "all_offer_price": 2398,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "green"
+      ],
+      "design": "Checked",
+      "display_image": "snitch-men-s-olive-shutter-checked-slim-fit-shirt-571343-1674473926-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1173455,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1173460,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1173464,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1173465,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1173471,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 849,
+      "mrp": 2398,
+      "name": "Snitch Men's Olive Shutter Checked Slim Fit Shirt",
+      "custom_name": "Men's Olive Shutter Checked Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 899,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-olive-shutter-checked-slim-fit-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "64% OFF",
+      "product_discount": "62% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 571344,
+      "all_offer_price": 2598,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "pink"
+      ],
+      "design": "Striped",
+      "display_image": "snitch-men-s-pink-extensive-striped-slim-fit-shirt-571344-1674473507-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1173458,
+          "name": "38",
+          "stock_status": false
+        },
+        {
+          "id": 1173459,
+          "name": "40",
+          "stock_status": false
+        },
+        {
+          "id": 1173461,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1173463,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1173486,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 949,
+      "mrp": 2598,
+      "name": "Snitch Men's Pink Extensive Striped Slim Fit Shirt",
+      "custom_name": "Men's Pink Extensive Striped Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 999,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-pink-extensive-striped-slim-fit-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "63% OFF",
+      "product_discount": "61% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 571372,
+      "all_offer_price": 2398,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "blue"
+      ],
+      "design": "Solid",
+      "display_image": "snitch-men-s-blue-on-loop-slim-fit-shirt-571372-1674473255-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1173571,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1173574,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1173578,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1173581,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1173583,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 849,
+      "mrp": 2398,
+      "name": "Snitch Men's Blue On Loop Slim Fit Shirt",
+      "custom_name": "Men's Blue On Loop Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 899,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-blue-on-loop-slim-fit-shirt-men",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "64% OFF",
+      "product_discount": "62% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 571802,
+      "all_offer_price": 1598,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "white"
+      ],
+      "design": "Floral Print",
+      "display_image": "snitch-men-s-white-exo-leaf-floral-printed-slim-fit-shirt-571802-1674563449-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1174218,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1174221,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1174228,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1174233,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1174239,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 759,
+      "mrp": 1598,
+      "name": "Snitch Men's White Exo Leaf Floral Printed Slim Fit Shirt",
+      "custom_name": "Men's White Exo Leaf Floral Printed Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 799,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-white-exo-leaf-floral-printed-slim-fit-shirt4mss1490-02",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "52% OFF",
+      "product_discount": "50% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 571330,
+      "all_offer_price": 2598,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "brown"
+      ],
+      "design": "Solid",
+      "display_image": "snitch-men-s-brown-tri-pocket-slim-fit-shirt-571330-1674476375-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1173397,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1173402,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1173411,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1173430,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1173444,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 949,
+      "mrp": 2598,
+      "name": "Snitch Men's Brown Tri Pocket Slim Fit Shirt",
+      "custom_name": "Men's Brown Tri Pocket Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 999,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-brown-tri-pocket-slim-fit-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "63% OFF",
+      "product_discount": "61% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 571327,
+      "all_offer_price": 1998,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "black"
+      ],
+      "design": "Geometric Print",
+      "display_image": "snitch-men-s-black-zap-geometric-printed-slim-fit-shirt-571327-1674473707-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1173394,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1173399,
+          "name": "40",
+          "stock_status": false
+        },
+        {
+          "id": 1173408,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1173420,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1173438,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 949,
+      "mrp": 1998,
+      "name": "Snitch Men's Black Zap Geometric Printed Slim Fit Shirt",
+      "custom_name": "Men's Black Zap Geometric Printed Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 999,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-black-zap-geometric-printed-slim-fit-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "52% OFF",
+      "product_discount": "50% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 567412,
+      "all_offer_price": 1699,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "green"
+      ],
+      "design": "Solid",
+      "display_image": "men-s-green-slim-fit-shirt12-567412-1672738463-1.JPG",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1163241,
+          "name": "M",
+          "stock_status": false
+        },
+        {
+          "id": 1163258,
+          "name": "L",
+          "stock_status": true
+        },
+        {
+          "id": 1163277,
+          "name": "XL",
+          "stock_status": true
+        },
+        {
+          "id": 1163295,
+          "name": "2XL",
+          "stock_status": false
+        }
+      ],
+      "stock_status": true,
+      "member_price": 859,
+      "mrp": 1699,
+      "name": "Men's Green Slim Fit Shirt",
+      "custom_name": "Men's Green Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 899,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "mens-green-slim-fit-shirt12",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "49% OFF",
+      "product_discount": "47% OFF",
+      "manufacturer_brand": "FLY69",
+      "stock_indicator_tag": {
+        "label": "Few Left"
+      }
+    },
+    {
+      "id": 567956,
+      "all_offer_price": 799,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "white"
+      ],
+      "design": "Abstract",
+      "display_image": "men-s-white-abstract-printed-relaxed-fit-shirt-567956-1673337357-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1165926,
+          "name": "S",
+          "stock_status": true
+        },
+        {
+          "id": 1165925,
+          "name": "M",
+          "stock_status": true
+        },
+        {
+          "id": 1165924,
+          "name": "L",
+          "stock_status": true
+        },
+        {
+          "id": 1165927,
+          "name": "XL",
+          "stock_status": true
+        },
+        {
+          "id": 1165928,
+          "name": "2XL",
+          "stock_status": false
+        },
+        {
+          "id": 1165923,
+          "name": "3XL",
+          "stock_status": false
+        }
+      ],
+      "stock_status": true,
+      "member_price": 539,
+      "mrp": 799,
+      "name": "Men's White Abstract Printed Relaxed Fit Shirt",
+      "custom_name": "Men's White Abstract Printed Relaxed Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 559,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "mens-white-abstract-printed-relaxed-fit-shirt-men",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "RELAXED FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "32% OFF",
+      "product_discount": "30% OFF",
+      "manufacturer_brand": "TISTABENE"
+    },
+    {
+      "id": 575278,
+      "all_offer_price": 1699,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "green"
+      ],
+      "design": "Striped",
+      "display_image": "fly69-men-s-green-striped-slim-fit-shirt-575278-1674654641-1.JPG",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1178706,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1178714,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1178722,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1178732,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1178749,
+          "name": "46",
+          "stock_status": false
+        }
+      ],
+      "stock_status": true,
+      "member_price": 869,
+      "mrp": 1699,
+      "name": "Fly69 Men's Green Striped Slim Fit Shirt",
+      "custom_name": "Men's Green Striped Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 899,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "fly69-mens-green-striped-slim-fit-shirt15100213",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "48% OFF",
+      "product_discount": "47% OFF",
+      "manufacturer_brand": "FLY69"
+    },
+    {
+      "id": 575288,
+      "all_offer_price": 1799,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "grey"
+      ],
+      "design": "Printed",
+      "display_image": "fly69-men-s-grey-slim-fit-shirt-575288-1674653892-1.JPG",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1178735,
+          "name": "38",
+          "stock_status": false
+        },
+        {
+          "id": 1178741,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1178748,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1178752,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1178756,
+          "name": "46",
+          "stock_status": false
+        }
+      ],
+      "stock_status": true,
+      "member_price": 859,
+      "mrp": 1799,
+      "name": "Fly69 Men's Grey Slim Fit Shirt",
+      "custom_name": "Men's Grey Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 899,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "fly69-mens-grey-slim-fit-shirt15100431",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "52% OFF",
+      "product_discount": "50% OFF",
+      "manufacturer_brand": "FLY69"
+    },
+    {
+      "id": 563825,
+      "all_offer_price": 2199,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "maroon"
+      ],
+      "design": "Striped",
+      "display_image": "men-s-maroon-striped-oversized-plus-size-shirt-563825-1671455669-1.JPG",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1155490,
+          "name": "3XL",
+          "stock_status": true
+        },
+        {
+          "id": 1155504,
+          "name": "4XL",
+          "stock_status": true
+        },
+        {
+          "id": 1155512,
+          "name": "5XL",
+          "stock_status": false
+        },
+        {
+          "id": 1155519,
+          "name": "6XL",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 1039,
+      "mrp": 2199,
+      "name": "Men's Maroon Striped Plus Size Shirt",
+      "custom_name": "Men's Maroon Striped Plus Size Shirt",
+      "offer_type": "price_cut",
+      "price": 1099,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "mens-maroon-striped-oversized-plus-size-shirt-1-men",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "PLUS SIZE",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "52% OFF",
+      "product_discount": "50% OFF",
+      "manufacturer_brand": "Instafab Plus"
+    },
+    {
+      "id": 568055,
+      "all_offer_price": 2899,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "white"
+      ],
+      "design": "Printed",
+      "display_image": "men-s-white-printed-slim-fit-shirt-568055-1673350921-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1166312,
+          "name": "S",
+          "stock_status": true
+        },
+        {
+          "id": 1166314,
+          "name": "M",
+          "stock_status": true
+        },
+        {
+          "id": 1166316,
+          "name": "L",
+          "stock_status": true
+        },
+        {
+          "id": 1166317,
+          "name": "XL",
+          "stock_status": true
+        },
+        {
+          "id": 1166318,
+          "name": "2XL",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 849,
+      "mrp": 2899,
+      "name": "Men's White Printed Slim Fit Shirt",
+      "custom_name": "Men's White Printed Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 899,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "mens-white-printed-slim-fit-shirt-men",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "average_rating": 5,
+      "member_discount": "70% OFF",
+      "product_discount": "68% OFF",
+      "manufacturer_brand": "Bushirt"
+    },
+    {
+      "id": 569198,
+      "all_offer_price": 1599,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "maroon"
+      ],
+      "design": "Solid",
+      "display_image": "fly69-men-s-maroon-slim-fit-shirt5-569198-1673958000-1.JPG",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1169121,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1169122,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1169123,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1169124,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1169125,
+          "name": "46",
+          "stock_status": false
+        }
+      ],
+      "stock_status": true,
+      "member_price": 869,
+      "mrp": 1599,
+      "name": "Men's Maroon Slim Fit Shirt",
+      "custom_name": "Men's Maroon Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 899,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "fly69-mens-maroon-slim-fit-shirt5",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "45% OFF",
+      "product_discount": "43% OFF",
+      "manufacturer_brand": "FLY69"
+    },
+    {
+      "id": 560550,
+      "all_offer_price": 1599,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "blue"
+      ],
+      "design": "Solid",
+      "display_image": "men-s-blue-slim-fit-shirt-560550-1670936895-1.JPG",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1148890,
+          "name": "M",
+          "stock_status": true
+        },
+        {
+          "id": 1148909,
+          "name": "L",
+          "stock_status": true
+        },
+        {
+          "id": 1148919,
+          "name": "XL",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 659,
+      "mrp": 1599,
+      "name": "Men's Blue Slim Fit Shirt",
+      "custom_name": "Men's Blue Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 699,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "mens-blue-slim-fit-shirt-1-men",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "58% OFF",
+      "product_discount": "56% OFF",
+      "manufacturer_brand": "SHEVRON",
+      "stock_indicator_tag": {
+        "label": "Few Left"
+      }
+    },
+    {
+      "id": 571345,
+      "all_offer_price": 2598,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "green"
+      ],
+      "design": "Striped",
+      "display_image": "snitch-men-s-green-extensive-striped-slim-fit-shirt-571345-1674476555-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1173466,
+          "name": "38",
+          "stock_status": false
+        },
+        {
+          "id": 1173473,
+          "name": "40",
+          "stock_status": false
+        },
+        {
+          "id": 1173483,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1173487,
+          "name": "44",
+          "stock_status": false
+        },
+        {
+          "id": 1173489,
+          "name": "46",
+          "stock_status": false
+        }
+      ],
+      "stock_status": true,
+      "member_price": 949,
+      "mrp": 2598,
+      "name": "Snitch Men's Green Extensive Striped Slim Fit Shirt",
+      "custom_name": "Men's Green Extensive Striped Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 999,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-green-extensive-striped-slim-fit-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "63% OFF",
+      "product_discount": "61% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 571336,
+      "all_offer_price": 1598,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "grey"
+      ],
+      "design": "Striped",
+      "display_image": "snitch-men-s-grey-caius-striped-slim-fit-shirt-571336-1674474506-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1173407,
+          "name": "38",
+          "stock_status": true
+        },
+        {
+          "id": 1173419,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1173437,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1173448,
+          "name": "44",
+          "stock_status": false
+        },
+        {
+          "id": 1173452,
+          "name": "46",
+          "stock_status": false
+        }
+      ],
+      "stock_status": true,
+      "member_price": 759,
+      "mrp": 1598,
+      "name": "Snitch Men's Grey Caius Striped Slim Fit Shirt",
+      "custom_name": "Men's Grey Caius Striped Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 799,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "snitch-mens-grey-caius-striped-slim-fit-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "52% OFF",
+      "product_discount": "50% OFF",
+      "manufacturer_brand": "Snitch"
+    },
+    {
+      "id": 580339,
+      "all_offer_price": 1999,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "green"
+      ],
+      "design": "Solid",
+      "display_image": "act-smart-men-s-green-slim-fit-shirt-580339-1676293525-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1190696,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1190705,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1190713,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1190720,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 659,
+      "mrp": 1999,
+      "name": "Act Smart Men's Green Slim Fit Shirt",
+      "custom_name": "Men's Green Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 699,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "act-smart-mens-green-slim-fit-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "67% OFF",
+      "product_discount": "65% OFF",
+      "manufacturer_brand": "ACT SMART"
+    },
+    {
+      "id": 580335,
+      "all_offer_price": 1999,
+      "description": "",
+      "category": "Shirt",
+      "color": [
+        "blue"
+      ],
+      "design": "Solid",
+      "display_image": "act-smart-men-s-blue-slim-fit-shirt-580335-1676293683-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1190693,
+          "name": "40",
+          "stock_status": true
+        },
+        {
+          "id": 1190701,
+          "name": "42",
+          "stock_status": true
+        },
+        {
+          "id": 1190709,
+          "name": "44",
+          "stock_status": true
+        },
+        {
+          "id": 1190717,
+          "name": "46",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 659,
+      "mrp": 1999,
+      "name": "Act Smart Men's Blue Slim Fit Shirt",
+      "custom_name": "Men's Blue Slim Fit Shirt",
+      "offer_type": "price_cut",
+      "price": 699,
+      "ptype": "single",
+      "subclass": "Shirt",
+      "url": "act-smart-mens-blue-slim-fit-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": null,
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "Shirt",
+        "id": 44,
+        "name": "Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "SLIM FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "member_discount": "67% OFF",
+      "product_discount": "65% OFF",
+      "manufacturer_brand": "ACT SMART"
     }
   ]
 }
