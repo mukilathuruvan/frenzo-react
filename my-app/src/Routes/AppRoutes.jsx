@@ -18,9 +18,8 @@ const AppRoutes = () => {
         }
       />
 
-      <Route path="products" element={<ProductsPage />}>
-        <Route path=":category" element={<CardContainer />} />
-      </Route>
+      <Route path="products" element={<ProductsPage />} />
+      <Route path="products/:category" element={<CardContainer />} />
 
       <Route path="/*" element={<h1>404 Not Found Error</h1>} />
     </Routes>

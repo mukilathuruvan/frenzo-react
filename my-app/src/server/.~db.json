@@ -2209,6 +2209,406 @@
       "member_discount": "70% OFF",
       "product_discount": "67% OFF",
       "manufacturer_brand": "Bewakoof®"
+    },
+    {
+      "id": 577654,
+      "all_offer_price": 1499,
+      "description": "",
+      "category": "T-Shirt",
+      "color": [
+        "navy"
+      ],
+      "design": "Graphic Print",
+      "display_image": "men-s-blue-thunder-breathing-zenitsu-oversized-t-shirt-577654-1675252015-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1183501,
+          "name": "S",
+          "stock_status": true
+        },
+        {
+          "id": 1183510,
+          "name": "M",
+          "stock_status": true
+        },
+        {
+          "id": 1183517,
+          "name": "L",
+          "stock_status": true
+        },
+        {
+          "id": 1183522,
+          "name": "XL",
+          "stock_status": true
+        },
+        {
+          "id": 1183528,
+          "name": "2XL",
+          "stock_status": true
+        },
+        {
+          "id": 1183530,
+          "name": "3XL",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 559,
+      "mrp": 1499,
+      "name": "Men's Blue Thunder Breathing Zenitsu Graphic Printed Oversized T-shirt",
+      "custom_name": "Men's Blue Thunder Breathing Zenitsu Graphic Printed Oversized T-shirt",
+      "offer_type": "price_cut",
+      "price": 599,
+      "ptype": "single",
+      "subclass": "T-Shirt",
+      "url": "mens-blue-thunder-breathing-zenitsu-oversized-t-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": "bewakoof",
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "T-Shirt",
+        "id": 43,
+        "name": "T-Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "T-Shirt",
+        "id": 43,
+        "name": "T-Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "OVERSIZED FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "average_rating": 4.5,
+      "member_discount": "62% OFF",
+      "product_discount": "60% OFF",
+      "manufacturer_brand": "Bewakoof®"
+    },
+    {
+      "id": 516729,
+      "all_offer_price": 1599,
+      "description": "",
+      "category": "T-Shirt",
+      "color": [
+        "aop"
+      ],
+      "design": "Tie & Dye",
+      "display_image": "men-s-black-tie-dye-oversized-t-shirt-516729-1670997136-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1049526,
+          "name": "S",
+          "stock_status": true
+        },
+        {
+          "id": 1049535,
+          "name": "M",
+          "stock_status": true
+        },
+        {
+          "id": 1049544,
+          "name": "L",
+          "stock_status": true
+        },
+        {
+          "id": 1049554,
+          "name": "XL",
+          "stock_status": true
+        },
+        {
+          "id": 1049563,
+          "name": "2XL",
+          "stock_status": true
+        },
+        {
+          "id": 1049573,
+          "name": "3XL",
+          "stock_status": false
+        }
+      ],
+      "stock_status": true,
+      "member_price": 489,
+      "mrp": 1599,
+      "name": "Men's Black Tie & Dye Oversized T-shirt",
+      "custom_name": "Men's Black Tie & Dye Oversized T-shirt",
+      "offer_type": "price_cut",
+      "price": 525,
+      "ptype": "single",
+      "subclass": "T-Shirt",
+      "url": "mens-black-tie-dye-oversized-t-shirt",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": "bewakoof",
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "T-Shirt",
+        "id": 43,
+        "name": "T-Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "T-Shirt",
+        "id": 43,
+        "name": "T-Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "OVERSIZED FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "average_rating": 4.5,
+      "member_discount": "69% OFF",
+      "product_discount": "67% OFF",
+      "manufacturer_brand": "Bewakoof®"
+    },
+    {
+      "id": 277530,
+      "all_offer_price": 1299,
+      "description": "",
+      "category": "T-Shirt",
+      "color": [
+        "red"
+      ],
+      "design": "Printed",
+      "display_image": "busy-doin-nothing-full-sleeve-t-shirt-dl-bold-red-277530-1675063151-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 529548,
+          "name": "S",
+          "stock_status": true
+        },
+        {
+          "id": 529549,
+          "name": "M",
+          "stock_status": true
+        },
+        {
+          "id": 529550,
+          "name": "L",
+          "stock_status": true
+        },
+        {
+          "id": 529551,
+          "name": "XL",
+          "stock_status": true
+        },
+        {
+          "id": 529552,
+          "name": "2XL",
+          "stock_status": true
+        },
+        {
+          "id": 529553,
+          "name": "3XL",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 369,
+      "mrp": 1299,
+      "name": "Busy Doin Nothing Full Sleeve T-Shirt (DL) Bold Red",
+      "custom_name": "Busy Doin Nothing Full Sleeve T-Shirt (DL) Bold Red",
+      "offer_type": "best_seller",
+      "price": 399,
+      "ptype": "single",
+      "subclass": "T-Shirt",
+      "url": "busy-doin-nothing-full-sleeve-t-shirt-for-men",
+      "brand": "",
+      "model": "",
+      "material": "Cotton",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": "disney x bewakoof merchandise",
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "T-Shirt",
+        "id": 43,
+        "name": "T-Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "T-Shirt",
+        "id": 43,
+        "name": "T-Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "offer",
+          "label": "BUY 3 FOR 999",
+          "bgColor": "rgba(0, 184, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": "Buy 3 for 949",
+      "upgraded_dimension": true,
+      "average_rating": 4.5,
+      "member_discount": "71% OFF",
+      "product_discount": "69% OFF",
+      "manufacturer_brand": "Bewakoof®"
+    },
+    {
+      "id": 508206,
+      "all_offer_price": 1499,
+      "description": "",
+      "category": "T-Shirt",
+      "color": [
+        "aop"
+      ],
+      "design": "Aop",
+      "display_image": "men-s-aop-oversize-t-shirt-9-508206-1663667804-1.jpg",
+      "flip_image": null,
+      "parent_category": null,
+      "product_sizes": [
+        {
+          "id": 1031012,
+          "name": "S",
+          "stock_status": true
+        },
+        {
+          "id": 1031014,
+          "name": "M",
+          "stock_status": true
+        },
+        {
+          "id": 1031016,
+          "name": "L",
+          "stock_status": true
+        },
+        {
+          "id": 1031017,
+          "name": "XL",
+          "stock_status": true
+        },
+        {
+          "id": 1031018,
+          "name": "2XL",
+          "stock_status": true
+        },
+        {
+          "id": 1031019,
+          "name": "3XL",
+          "stock_status": true
+        }
+      ],
+      "stock_status": true,
+      "member_price": 539,
+      "mrp": 1499,
+      "name": "Men's Grey AOP Oversized T-shirt",
+      "custom_name": "Men's Grey AOP Oversized T-shirt",
+      "offer_type": "price_cut",
+      "price": 578,
+      "ptype": "single",
+      "subclass": "T-Shirt",
+      "url": "mens-aop-oversize-t-shirt-9",
+      "brand": "",
+      "model": "",
+      "material": "",
+      "status": 1,
+      "color_name": null,
+      "tribe_text": "For TriBe Members",
+      "tribe_image_url": "",
+      "designer": "bewakoof",
+      "cat_designer": "",
+      "in_stock": 1,
+      "gender": "Men",
+      "experiment_id": "plp_sorting;es;v3;plp_score1",
+      "limited_edition": false,
+      "group_count": 0,
+      "category_info": {
+        "gender": "Men",
+        "subclass": "T-Shirt",
+        "id": 43,
+        "name": "T-Shirt",
+        "url": ""
+      },
+      "child_category": {
+        "gender": "Men",
+        "subclass": "T-Shirt",
+        "id": 43,
+        "name": "T-Shirt",
+        "url": ""
+      },
+      "sp": null,
+      "offer": "14% OFF",
+      "coin_statement": null,
+      "tags": [
+        {
+          "type": "fit",
+          "label": "OVERSIZED FIT",
+          "bgColor": "rgba(82, 82, 82, 0.8)",
+          "textColor": "#fff"
+        }
+      ],
+      "tribe_header": null,
+      "upgraded_dimension": true,
+      "average_rating": 4.6,
+      "member_discount": "64% OFF",
+      "product_discount": "61% OFF",
+      "manufacturer_brand": "Bewakoof®"
     }
   ]
 }
