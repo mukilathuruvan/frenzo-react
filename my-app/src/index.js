@@ -6,16 +6,16 @@ import { BrowserRouter } from "react-router-dom";
 import NavBar from "./Routes/NavBar";
 import AppRoutes from "./Routes/AppRoutes";
 import UserContext from "./context/userContext";
+import { Provider } from "react-redux";
+import store from "./app/Store";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <Suspense fallback={<h1>Parent Loading</h1>}>
-    <UserContext>
-      <BrowserRouter>
-        <NavBar />
-        <AppRoutes />
-      </BrowserRouter>
-    </UserContext>
-  </Suspense>
+  <Provider store={store}>
+    <BrowserRouter>
+      <NavBar />
+      <AppRoutes />
+    </BrowserRouter>
+  </Provider>
 );
 
 // If you want to start measuring performance in your app, pass a function
